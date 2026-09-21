@@ -82,40 +82,8 @@
 
 ---
 
-## 🏆 Trophy Case
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GuruGitHub8858&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultiLanguage" />
-</div>
 
-<sub align="center">Trophy theme uses a near-black background with white type to match the rest of the page.</sub>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/GuruGitHub8858/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuruGitHub8858&repo=project-one&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-</a>
-<a href="https://github.com/GuruGitHub8858/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuruGitHub8858&repo=project-two&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GuruGitHub8858/GuruGitHub8858/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub align="center">⚙️ This animates automatically once you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action (setup steps below). It already renders black-and-white by default — a natural fit here.</sub>
-
----
 
 <div align="center">
 
